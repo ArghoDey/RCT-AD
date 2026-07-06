@@ -1,6 +1,6 @@
 
 
-> **A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**
+> ## A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving ##
 > 
 > Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam, Zheng Yuan, Sijing Xiong, Hongyu Liu, Zhiqiu Huang
 > 
