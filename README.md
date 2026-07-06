@@ -34,6 +34,10 @@ representation or the planned trajectory.
 - **Unified Multi-Task Joint Optimization** — detection, segmentation,
   prediction, planning, and mapping are trained end-to-end on one BEV latent.
 
+<div align="center">
+  <img src="assets/Supplementary Video Output.mp4" width="90%"/>
+</div>
+
 ## Results on nuScenes
 
 | Model      | Backbone | mAP  | NDS  | mIoU | Avg L2 (m) ↓ | Avg Col. (%) ↓ |
