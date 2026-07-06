@@ -2,8 +2,10 @@
 
 > **A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**
 > 
-> **Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam, Zheng Yuan, Sijing Xiong, Hongyu Liu, Zhiqiu Huang**
+> Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam, Zheng Yuan, Sijing Xiong, Hongyu Liu, Zhiqiu Huang
+> 
 > College of Computer Science, Chongqing University
+> 
 > *Submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
 
 RCT-AD is a semantically guided, memory-gated **end-to-end autonomous driving**
@@ -145,7 +147,7 @@ python -m pytest tests/ -v
 
 ## Acknowledgements
 
-RCT-AD is built on top of excellent prior work. We thank the authors of:
+All rights are reserved by Argho Dey. RCT-AD is built on top of excellent prior work. We thank the authors of:
 
 - [SparseDrive](https://github.com/swc-17/SparseDrive)
 - [BridgeAD](https://github.com/zbozhou/BridgeAD) (our baseline)
