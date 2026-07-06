@@ -4,8 +4,6 @@
 > 
 > Argho Dey, Yunfei Yin, Swachha Ray, Md Minhazul Islam, Zheng Yuan, Sijing Xiong, Hongyu Liu, Zhiqiu Huang
 > 
-> College of Computer Science, Chongqing University
-> 
 > *Submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
 
 RCT-AD is a semantically guided, memory-gated **end-to-end autonomous driving**
