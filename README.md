@@ -35,7 +35,7 @@ representation or the planned trajectory.
   prediction, planning, and mapping are trained end-to-end on one BEV latent.
 
 <div align="center">
-  <img src="assets/Supplementary Video Output.mp4" width="90%"/>
+  <img src="assets/Supplementary Video Output.gif" width="90%"/>
 </div>
 
 ## Results on nuScenes
